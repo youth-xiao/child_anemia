@@ -1,6 +1,6 @@
 ##############################################
 ### Group 2: Tanzania Children Anemia      ###
-### R code by: Xiaoyang Zou                ###
+### R code by: Xiaoyang Zou & Wen Zhang    ###
 ### Date created: 03/06/2021               ###
 ### Last modified: 03/16/2021              ###
 ##############################################
